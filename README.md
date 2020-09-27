@@ -244,7 +244,7 @@ ever.
 * [ ] [C++ - The Newest Old Language](https://www.youtube.com/watch?v=HAFrggEDr5U) [00:43:36] by **Matt Godbolt** (2018)
 * [ ] [Memory Latency Troubles You? Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)](https://www.youtube.com/watch?v=j9tlJAqMV7U) [01:04:25] by **Gor Nishanov** (2018)
 * [ ] [Modern C++ in Embedded Systems](https://www.youtube.com/watch?v=c9Xt6Me3mJ4) [01:30:39] by **Michael Caisse** (2018)
-* [-Os matters](https://www.youtube.com/watch?v=vGV5u1nxqd8) [00:44:12] by **Mark Zeren** (2018)
+* [ ] [-Os matters](https://www.youtube.com/watch?v=vGV5u1nxqd8) [00:44:12] by **Mark Zeren** (2018)
 <br>
 
 * [ ] [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) [01:02:32] by **Kate Gregory** (2017)
@@ -256,7 +256,7 @@ ever.
 * [ ] [Rethinking Exceptions](https://www.youtube.com/watch?v=OkgvqjJzH_Y) [01:23:17] by **Jason Turner** (2017)
 * [ ] [The Last Thing D Needs](https://www.youtube.com/watch?v=KAWA1DuvCnQ) [00:54:55] by **Scott Meyers** (2017)
 * [ ] [The Nightmare of Move Semantics for Trivial Classes](https://www.youtube.com/watch?v=PNRju6_yn3o) [00:57:15] by **Nicolai Josuttis** (2017)
-* **Undefined Behavior in 2017**: This talk has two parts.
+* [ ] **Undefined Behavior in 2017**: This talk has two parts.
   * [ ] [Undefined Behavior in 2017, Part I](https://www.youtube.com/watch?v=v1COuU2vU_w) [00:49:22] by **John Regehr** (2017)
   * [ ] [Undefined Behavior in 2017, Part II](https://www.youtube.com/watch?v=TPyLrJED0zQ) [00:49:22] by **John Regehr** (2017)
 <br>
@@ -266,7 +266,7 @@ ever.
 * [ ] [C++17, is it great or just OK?](https://www.youtube.com/watch?v=we0HUrXMC5s) [01:11:06] by **Michael Wong** (2016)
 * [ ] [Design Patterns in Modern C++](https://www.youtube.com/watch?v=sJnoIF4_Ug8) [01:07:04] by **Dmitri Nesteruk** (2016)
 * [ ] [Fastware](https://www.youtube.com/watch?v=AxnotgLql0k) [01:02:16] by **Andrei Alexandrescu** (2016)
-* **Making C++ easier, faster and safer**: This talk has two parts.
+* [ ] **Making C++ easier, faster and safer**: This talk has two parts.
   * [ ] [Making C++ easier, faster and safer, Part I](https://www.youtube.com/watch?v=cX_GhJ6BuWI) [01:18:28] by **Chandler Carruth** (2016)
   * [ ] [Making C++ easier, faster and safer, Part II](https://www.youtube.com/watch?v=E36BUcTWo50) [01:16:00] by **Chandler Carruth** (2016)
 * [ ] [STL Algorithms - How To Use Them and How to Write Your Own](https://www.youtube.com/watch?v=3nXLxMYXgWs) [01:30:36] by **Marshall Clow** (2016)
@@ -284,7 +284,7 @@ ever.
 * [ ] [C++ on Mars: Incorporating C++ into Mars Rover Flight Software](https://www.youtube.com/watch?v=3SdSKZFoUa8) [01:26:18] by **Mark Maimone** (2014)
 * [ ] [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski** (2014)
 * [ ] [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) [01:13:41] by **Chandler Carruth** (2014)
-* **Lock-Free Programming (or, Juggling Razor Blades)**: This talk has two parts. I recommend taking a short break after watching the first part.
+* [ ] **Lock-Free Programming (or, Juggling Razor Blades)**: This talk has two parts. I recommend taking a short break after watching the first part.
   * [ ] [Lock-Free Programming (or, Juggling Razor Blades), Part I](https://www.youtube.com/watch?v=c1gO9aB9nbs) [01:24:00] by **Herb Sutter** (2014)
   * [ ] [Lock-Free Programming (or, Juggling Razor Blades), Part II](https://www.youtube.com/watch?v=CmxkPChOcvw) [01:11:19] by **Herb Sutter** (2014)
 * [ ] [Making C++ Code Beautiful](https://www.youtube.com/watch?v=BiYliKliFvs) [00:56:23] by **James McNellis & Kate Gregory** (2014)
@@ -481,10 +481,10 @@ ever.
 * [ ] [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady** (2015)
 
 <!-- Leaving this commented in case we can recover these videos somehow
-* Dependently Typed Functional Programming in Idris: This talk has three parts:
-* [ ] [Dependently Typed Functional Programming in Idris, Part I](https://vimeo.com/117221082) [01:20:29] by **David Christiansen** (2015)
-* [ ] [Dependently Typed Functional Programming in Idris, Part II](https://vimeo.com/117973383) [01:02:47] by **David Christiansen** (2015)
-* [ ] [Dependently Typed Functional Programming in Idris, Part III](https://vimeo.com/117979741) [00:58:14] by **David Christiansen** (2015)
+* [ ] Dependently Typed Functional Programming in Idris: This talk has three parts:
+  * [ ] [Dependently Typed Functional Programming in Idris, Part I](https://vimeo.com/117221082) [01:20:29] by **David Christiansen** (2015)
+  * [ ] [Dependently Typed Functional Programming in Idris, Part II](https://vimeo.com/117973383) [01:02:47] by **David Christiansen** (2015)
+  * [ ] [Dependently Typed Functional Programming in Idris, Part III](https://vimeo.com/117979741) [00:58:14] by **David Christiansen** (2015)
 -->
 
 * [ ] [Dependently Typed Functional Programming with Idris](https://www.idris-lang.org/dependently-typed-functional-programming-with-idris-course-videos-and-slides/) by **Edwin Brady**: This lecture series has four parts ([playlist](https://www.youtube.com/playlist?list=PLZxlmw4K3ICJw6FAml2yw95B0I--iKQZ_)):
@@ -923,7 +923,7 @@ ever.
 * [ ] [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) [01:16:08] by **Adam Jacob** (2015)
 
 #### Distributed Systems
-* [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
+* [ ] [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
 * [ ] [Send me your Echolocation](https://www.deconstructconf.com/2018/vicky-nguyen-send-me-your-echolocation) [00:26:06] by **Vicky Nguyen** (2018)
 * [ ] [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) [00:36:43] by **Tyler McMullen** (2016)
 * [ ] [Scaling Instagram](https://www.youtube.com/watch?v=oNA2C1vC8FQ) [00:27:13] by **Mike Krieger** (2015)
@@ -1028,7 +1028,7 @@ ever.
 * [ ] [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
 * [ ] [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
 * [ ] [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU) [01:36:26] by **Dan Saks** (2016)
-* [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
+* [ ] ["Am I Senior Yet?" Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
 * [ ] [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
 * [ ] [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North** (2016)
 * [ ] [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016) [A]
