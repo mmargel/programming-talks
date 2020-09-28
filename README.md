@@ -709,7 +709,7 @@ ever.
 
 * [ ] [Composition](https://www.youtube.com/watch?v=zwo7ZTHS8Wg) [00:47:55] by **James Dabbs** (2016)
 * [ ] [Halve Your Memory Usage With These 12 Weird Tricks](https://www.youtube.com/watch?v=kZcqyuPeDao) [00:45:30] by **Nate Berkopec** (2016)
-* [ ] [How Are Method Calls Formed?](https://www.youtube.com/watch?v=6Dkjus07d9Y) [00:52:16] by **Aaron Patterson** (2016)
+* [x] [How Are Method Calls Formed?](https://www.youtube.com/watch?v=6Dkjus07d9Y) [00:52:16] by **Aaron Patterson** (2016)
 * [ ] [Metaprogramming? Not good enough!](https://www.youtube.com/watch?v=JOvBmhukWI0) [00:36:09] by **Justin Weiss** (2016)
 * [ ] [Methods of Memory Management in MRI](https://www.youtube.com/watch?v=r0UjXixkBV8) [00:48:48] by **Aaron Patterson** (2016)
 <br>
@@ -718,7 +718,7 @@ ever.
 * [ ] [Fun with the Lambda Calculus](https://www.youtube.com/watch?v=QPqoFCHpLF4) [00:48:48] by **Corey Haines** (2015)
 * [ ] [How to Performance](https://www.youtube.com/watch?v=obyrJ_aJU6A) [00:30:03] by **Eileen Uchitelle** (2015)
 * [ ] [Inside Ruby's VM: The TMI Edition](https://www.youtube.com/watch?v=CT8JSJkymZM) [00:39:10] by **Aaron Patterson** (2015)
-* [ ] [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) [00:35:52] by **Sandi Metz** (2015)
+* [x] [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) [00:35:52] by **Sandi Metz** (2015)
 * [ ] [Softly, softly typing](https://www.youtube.com/watch?v=XGLYHQ1BLfM) [00:44:33] by **John Cinnamond** (2015)
 <br>
 
@@ -1162,7 +1162,7 @@ ever.
 * [ ] [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) [01:01:26] by **Rich Hickey** (2011)
 * [ ] [Real Software Engineering](https://www.youtube.com/watch?v=NP9AIUT9nos) [00:51:56] by **Glenn Vanderburg** (2010)
 * [ ] [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey/) [01:10:04] by **Rich Hickey** (2009)
-* [ ] [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
+* [x] [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
 
 #### System Architecture
 * [ ] [The Salami Method for Cross Platform Development](https://www.youtube.com/watch?v=ZSpGNiUvXVI) [01:00:16] by **Adi Shavit** (2018)
