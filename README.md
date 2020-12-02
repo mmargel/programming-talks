@@ -554,7 +554,7 @@ ever.
 * [ ] [The Art of the Javascript Metaobject Protocol](https://vimeo.com/97415345) [00:58:06] by **Reginald Braithwaite** (2014)
 * [ ] [The Art of the JavaScript Metaobject Protocol: Duck Typing, Compatibility, and the Adaptor Pattern](http://lanyrd.com/2014/nordicjs/sddfwy/#link-zdxq) [00:26:29] by **Reginald Braithwaite** (2014)
 * [ ] [Version 7: The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw) [01:11:54] by **Jafar Husain** (2014)
-* [ ] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [00:26:53] by **Philip Roberts** (2014)
+* [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [00:26:53] by **Philip Roberts** (2014)
 <br>
 
 * [ ] [Bringing Angular Apps to Life with Animation](https://www.youtube.com/watch?v=cF_JsA9KsDM) [00:42:38] by **Miško Hevery** (2013)
@@ -727,7 +727,7 @@ ever.
 <br>
 
 * [ ] [A Rubyist in Clojure-land](https://www.youtube.com/watch?v=PbeCeM344z8) [00:37:50] by **David Chelimsky** (2013)
-* [ ] [Pry - The Good Parts!](https://www.youtube.com/watch?v=jDXsEzOHb2M) [00:33:33] by **Conrad Irwin** (2013)
+* [x] [Pry - The Good Parts!](https://www.youtube.com/watch?v=jDXsEzOHb2M) [00:33:33] by **Conrad Irwin** (2013)
 * [ ] [REPL driven development with Pry](https://www.youtube.com/watch?v=D9j_Mf91M0I) [00:39:26] by **Conrad Irwin** (2013)
 * [ ] [Ruby, threads, events ... and Flying Robots!](https://www.youtube.com/watch?v=YidL5j10jiU) [01:12:54] by **Jim Weirich** (2013)
 * [ ] [That's Not Very Ruby of You](https://www.youtube.com/watch?v=OB-xFC8AN_s) [00:36:57] by **Ernie Miller** (2013)
