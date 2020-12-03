@@ -702,6 +702,9 @@ ever.
 * [ ] [The Racket Manifesto](https://www.youtube.com/watch?v=JnczIyPXGfc) [00:52:42] by **Matthias Felleisen** (2015)
 * [ ] [Purely Functional 3D in Typed Racket](https://www.youtube.com/watch?v=t3xdv4UP9-U) [00:22:15] by **Neil Toronto** (2014)
 
+#### React
+* [x] [React is Fiction](https://hero35.com/react-conf/2019/react-is-fiction) [00:23:24] by **Jenn Creighton** (2019)
+
 #### Ruby
 * [ ] [What Killed Smalltalk Could Kill Ruby, Too](https://www.youtube.com/watch?v=YX3iRjKj7C0) [01:00:55] by **Robert Martin** (2009)
 * [ ] [Writing Ruby Like it’s 2018](https://www.youtube.com/watch?v=nVbMhLKvDF0) [00:11:53] by **Joe Leo III** (2018)
