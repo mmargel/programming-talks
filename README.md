@@ -92,6 +92,7 @@ ever.
     * [PureScript](#purescript)
     * [Python](#python)
     * [Racket](#racket)
+    * [React](#react)
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
