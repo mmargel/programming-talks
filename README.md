@@ -730,8 +730,8 @@ ever.
 * [x] [Pry - The Good Parts!](https://www.youtube.com/watch?v=jDXsEzOHb2M) [00:33:33] by **Conrad Irwin** (2013)
 * [ ] [REPL driven development with Pry](https://www.youtube.com/watch?v=D9j_Mf91M0I) [00:39:26] by **Conrad Irwin** (2013)
 * [ ] [Ruby, threads, events ... and Flying Robots!](https://www.youtube.com/watch?v=YidL5j10jiU) [01:12:54] by **Jim Weirich** (2013)
-* [ ] [That's Not Very Ruby of You](https://www.youtube.com/watch?v=OB-xFC8AN_s) [00:36:57] by **Ernie Miller** (2013)
-* [ ] [You Gotta Try This](https://www.youtube.com/watch?v=ZhINjILA5yw) [00:45:12] by **Avdi Grimm** (2013)
+* [x] [That's Not Very Ruby of You](https://www.youtube.com/watch?v=OB-xFC8AN_s) [00:36:57] by **Ernie Miller** (2013)
+* [x] [You Gotta Try This](https://www.youtube.com/watch?v=ZhINjILA5yw) [00:45:12] by **Avdi Grimm** (2013)
 <br>
 
 * [ ] [Confident Code](https://www.youtube.com/watch?v=T8J0j2xJFgQ) [00:31:24] by **Avdi Grimm** (2012)
