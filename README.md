@@ -705,6 +705,7 @@ ever.
 
 #### React
 * [x] [React is Fiction](https://hero35.com/react-conf/2019/react-is-fiction) [00:23:24] by **Jenn Creighton** (2019)
+* [x] [Using hooks and codegen](https://hero35.com/react-conf/2019/using-hooks-and-codegen) [00:30:01] by **Tejas Kumar** (2019)
 
 #### Ruby
 * [ ] [What Killed Smalltalk Could Kill Ruby, Too](https://www.youtube.com/watch?v=YX3iRjKj7C0) [01:00:55] by **Robert Martin** (2009)
