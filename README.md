@@ -79,6 +79,7 @@ ever.
     * [Factor](#factor)
     * [Frege](#frege)
     * [Go](#go)
+    * [GraphQL](#graphql)
     * [Hackett](#hackett)
     * [Haskell](#haskell)
     * [Idris](#idris)
@@ -99,6 +100,7 @@ ever.
     * [Scheme](#scheme)
     * [Smalltalk](#smalltalk)
     * [Swift](#swift)
+    * [TypeScript](#typescript)
     * [Unison](#unison)
     * [VimL](#viml)
     * [Wolfram Language](#wolfram-language)
@@ -439,6 +441,9 @@ ever.
 * [ ] [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike** (2012)
 * [ ] [Practical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) [00:59:20] by **Andrew Gerrand** (2011)
 
+#### GraphQL
+* [x] [Designing GraphQL Schemas](https://hero35.com/react-advanced/2019/designing-graphql-schemas) [00:32:39] by **Nik Graf** (2019)
+
 #### Hackett
 * [ ] [Hackett: a metaprogrammable Haskell](https://www.youtube.com/watch?v=5QQdI3P7MdY) [00:33:39] by **Alexis King** (2018)
 
@@ -706,6 +711,8 @@ ever.
 #### React
 * [x] [React is Fiction](https://hero35.com/react-conf/2019/react-is-fiction) [00:23:24] by **Jenn Creighton** (2019)
 * [x] [Using hooks and codegen](https://hero35.com/react-conf/2019/using-hooks-and-codegen) [00:30:01] by **Tejas Kumar** (2019)
+* [x] [Functional Programming Fundamentals](https://hero35.com/reactnext/2018/functional-programming-fundamentals) [00:30:03] by **Matthew Gerstman** (2018)
+* [x] [Don’t Let Your Unit Tests Slow You Down](https://hero35.com/react-advanced/2019/dont-let-your-unit-tests-slow-you-down) [00:27:20] by **Daniel Irvine** (2019)
 
 #### Ruby
 * [ ] [What Killed Smalltalk Could Kill Ruby, Too](https://www.youtube.com/watch?v=YX3iRjKj7C0) [01:00:55] by **Robert Martin** (2009)
@@ -802,6 +809,9 @@ ever.
 * [ ] [Swift's High-Level IR: A Case Study...](https://www.youtube.com/watch?v=Ntj8ab-5cvE) [00:55:37] by **Joe Groff & Chris Lattner** (2015) [A]
 * [ ] [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=nvHFin89pXY) [00:41:19] by **J.P. Simard** (2014)
 * [ ] [Thinking in Swift](https://vimeo.com/105440181) [00:24:23] by **Abizer Nasir** (2014)
+
+#### TypeScript
+* [x] [TypeScript: Seeing Past the Hype](https://hero35.com/react-loop/2019/typescript-seeing-past-the-hype) [00:26:31] by **Matthew Gerstman** (2019)
 
 #### Unison
 * [ ] [Unison: An Introduction](https://www.youtube.com/watch?v=yicXcdLI2YA) [01:53:49] by **Rúnar Bjarnason** (2020)
